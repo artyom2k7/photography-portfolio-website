@@ -11,7 +11,7 @@ h1, h2, p, form, body{
 }
 
 header{
-    background-image: url(img/banner.jpg);
+    background-image: url(../img/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 100px;
@@ -84,29 +84,29 @@ header:hover .cover{
 }
 
 .item:nth-child(1){
-    background-image: url(img/pic01.jpg);
+    background-image: url(../img/pic01.jpg);
 }
 
 .item:nth-child(2){
-    background-image: url(img/pic02.jpg);
+    background-image: url(../img/pic02.jpg);
     grid-column: span 2;
 }
 
 .item:nth-child(3){
-    background-image: url(img/pic03.jpg);
+    background-image: url(../img/pic03.jpg);
     grid-column: span 2;
 }
 
 .item:nth-child(4){
-    background-image: url(img/pic04.jpg);
+    background-image: url(../img/pic04.jpg);
 }
 
 .item:nth-child(5){
-    background-image: url(img/pic05.jpg);
+    background-image: url(../img/pic05.jpg);
 }
 
 .item:nth-child(6){
-    background-image: url(img/pic06.jpg);
+    background-image: url(../img/pic06.jpg);
     grid-column: span 2;
 }
 
