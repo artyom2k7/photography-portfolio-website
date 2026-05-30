@@ -1,5 +1,7 @@
 # Photography Portfolio Website
 
+> **Note:** This project is designed as a desktop-only layout (`Desktop-only`) to practice and master complex multi-column CSS Grid layouts, explicit coordinate mapping, and hover-driven visual effects.
+
 A clean, modern, and high-contrast multi-section landing page designed as a personal portfolio for a professional photographer. Features a fluid graphical gallery and complex CSS layouts.
 
 ## Technologies Used
